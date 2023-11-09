@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abeke-lamb
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data science with python
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in data analytics
+- 🌱 I’m recently concluded my first stage of learning data analysis with Microsoft Excel
+- 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me +2348125434167
 
 <!---
